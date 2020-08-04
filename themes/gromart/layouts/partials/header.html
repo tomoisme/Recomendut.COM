@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <link rel="icon" href="{{ .Site.BaseURL }}/favicon.ico" type="image/x-icon">
+    <!-- CSS  -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/lib/font-awesome/web-fonts-with-css/css/fontawesome-all.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/materialize.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
+    <!-- materialize icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    {{if .IsHome}}
+    <!-- Owl carousel -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/lib/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/lib/owlcarousel/assets/owl.theme.default.min.css">
+    <!-- Slick CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/lib/slick/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/lib/slick/slick/slick-theme.css">
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/lib/Magnific-Popup-master/dist/magnific-popup.css">
+    {{end}}
+</head>
+
+<body id="homepage">
+    <!-- BEGIN PRELOADING -->
+    <div class="preloading">
+        <div class="wrap-preload">
+            <div class="cssload-loader"></div>
+        </div>
+    </div>
+    <!-- END PRELOADING -->
+    <!-- HEADER -->
+    <header id="header">
+        <div class="nav-wrapper container">
+            <div class="header-logo">
+                <a href="{{ .Site.BaseURL }}/#" class="nav-logo">RECOMENDUT</a>
+            </div>
+            <div class="header-menu-button">
+                <a href="{{ .Site.BaseURL }}/#" data-activates="nav-mobile-category" class="button-collapse"
+                    id="button-collapse-category">
+                    <div class="cst-btn-menu">
+                        <i class="fas fa-align-right"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </header>
+    <!-- END HEADER -->
+    
+    {{ partial "nav" . }}
+
+    {{ if not .IsHome}}
+    <br>
+    {{ end }}

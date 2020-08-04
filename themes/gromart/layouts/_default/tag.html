@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+
+<!-- CONTENT -->
+<div id="page-content">
+    <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <h5>{{ .Title }}</h5>
+                <ul class="tomo">
+                    {{ range .Paginator.Pages }}
+                    <li>
+                        <a href="{{.Permalink}}"> {{.Title}}</a> 
+                        (<small>{{.Date.Format "2 Jan 2006"}}</small>)
+                    </li>
+                    {{ end }}
+                </ul>
+                
+                {{ template "_internal/pagination.html" . }}
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CONTENT -->
+
+{{ partial "footer" . }}

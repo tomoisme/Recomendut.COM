@@ -1,0 +1,9 @@
+baseURL = "https://recomendut.com"
+languageCode = "en-us"
+title = "Blog Review Dan Rekomendasi Tempat, Barang Dan Jasa"
+disableKinds = ["RSS"]
+theme = "gromart"
+paginate = 5
+
+[taxonomies]
+    tag = "tag"

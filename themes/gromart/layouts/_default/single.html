@@ -1,0 +1,26 @@
+{{ partial "header" . }}
+
+<!-- CONTENT -->
+<div id="page-content">
+    <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <h4>{{ .Title }}</h4>
+                <div class="p-justify">
+                    {{ .Content }}
+                </div>
+                <br>
+                <p>
+                    Tag:
+                    {{ $siteurl := .Site.BaseURL }}
+                    {{ range .Params.tag }}
+                    #<a href="{{ $siteurl }}/tag/{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CONTENT -->
+
+{{ partial "footer" . }}

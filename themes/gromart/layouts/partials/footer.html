@@ -1,0 +1,81 @@
+<br>
+
+<!-- FOOTER  -->
+<footer id="footer">
+    <div class="footer-info">
+        <div class="container">
+            <div class="col s12 center">
+                <i class="fas fa-map-marker-alt"></i> Jl. Mirah Raya Blok R
+                No. 2, RT. 02 RW. 02.  Desa Sawah Baru. Kec. Ciputat, Tangerang Selatan. 
+                Banten 15413<br>
+                <i class="fas fa-phone-square"></i> 0838 7354 4537 <br>
+                <i class="fas fa-envelope"></i> info@recomendut.com
+                
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <!--  
+        <div class="row row-footer-icon">
+            <div class="col s12">
+                <div class="footer-sosmed-icon ">
+                    <div class="wrap-circle-sosmed ">
+                        <a href="#">
+                            <div class="circle-sosmed">
+                                <i class="fab fa-instagram"></i>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="wrap-circle-sosmed ">
+                        <a href="#">
+                            <div class="circle-sosmed">
+                                <i class="fab fa-linkedin-in"></i>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="wrap-circle-sosmed ">
+                        <a href="#">
+                            <div class="circle-sosmed">
+                                <i class="fab fa-twitter"></i>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="wrap-circle-sosmed ">
+                        <a href="#">
+                            <div class="circle-sosmed">
+                                <i class="fab fa-facebook-f"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        -->
+        <div class="row copyright">
+            2020 &copy; <span>Recomendut.COM</span>, review dan rekomendasi makanan, restoran, cafe, hotel, tempat wisata, gadget, dll.
+            <br>
+            <a href="{{ .Site.BaseURL }}/sitemap.xml" style="color: white;">Sitemap</a> &bull; <a
+                href="{{ .Site.BaseURL }}/kebijakan-privasi/" style="color: white;">Kebijakan Privasi</a> &bull; <a
+                href="{{ .Site.BaseURL }}/persyaratan-layanan/" style="color: white;">Persyaratan Layanan</a>
+
+        </div>
+    </div>
+</footer>
+<!-- END FOOTER -->
+<!-- Script -->
+<script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
+<script src="{{ .Site.BaseURL }}/js/materialize.min.js"></script>
+{{if .IsHome}}
+<!-- Owl carousel -->
+<script src="{{ .Site.BaseURL }}/lib/owlcarousel/owl.carousel.min.js"></script>
+<!-- Magnific Popup core JS file -->
+<script src="{{ .Site.BaseURL }}/lib/Magnific-Popup-master/dist/jquery.magnific-popup.js"></script>
+<!-- Slick JS -->
+<script src="{{ .Site.BaseURL }}/lib/slick/slick/slick.min.js"></script>
+<!-- Custom script -->
+{{end}}
+<script src="{{ .Site.BaseURL }}/js/custom.js"></script>
+{{ partial "analytics" . }}
+</body>
+
+</html>
