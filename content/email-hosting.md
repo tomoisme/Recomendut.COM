@@ -13,11 +13,19 @@ tag: [
 
 ##### Rekomendasi Email Hosting Dari Tukang Bikin Web Perusahan
 
-Karena kerjaan saya sebagai tukang bikin web untuk perusahaan-perusahaan, memilih hosting sudah bukan hal yang asing lagi buat saya. Hampir semua klien saya tidak mengerti atau awam soal hosting, mereka cuma tau bahwa mereka kepingin punya website untuk menawarkan barang atau jasa mereka dan juga mereka pengen punya alamat email dengan akhiran nama domain mereka sendiri (bukan @gmail.com, @yahoo.com dsb) biar keliatan professional dan bonafide.
+Karena kerjaan saya sebagai tukang bikin web untuk perusahaan-perusahaan, memilih hosting sudah bukan hal yang asing lagi buat saya. 
+
+Hampir semua klien saya tidak mengerti atau awam soal hosting. 
+
+Mereka cuma tau bahwa mereka kepingin punya website untuk menawarkan barang atau jasa mereka dan juga mereka pengen punya alamat email dengan akhiran nama domain mereka sendiri (bukan @gmail.com, @yahoo.com dsb) biar keliatan professional dan bonafide.
 
 Untuk itu saya akan share pengalaman saya dalam memilih hosting murah terbaik bagi klien-klien saya.
 
-Oh iya, disini saya lebih menekankan email hosting, tapi bukan berarti hosting yang saya rekomendasikan disini tidak dapat menayangkan website, email hosting yang saya tawarkan disini juga sangat mumpuni untuk menampilkan website yang memiliki jumlah pengunjung yang tinggi. Jadi email hosting yang saya rekomendasikan bisa digunakan untuk 2 fungsi, menayangkan website atau bahkan webapps (PHP, Python, NodeJS, Ruby - DB MySQL, PostGre) dan juga untuk email server (untuk kirim/terima email).
+Oh iya, disini saya lebih menekankan email hosting, tapi BUKAN berarti hosting yang saya rekomendasikan disini tidak dapat menayangkan website. 
+
+Email hosting yang saya tawarkan disini juga sangat mumpuni untuk menampilkan website yang memiliki jumlah pengunjung yang tinggi. 
+
+Jadi email hosting yang saya rekomendasikan bisa digunakan untuk 2 fungsi, menayangkan website atau bahkan webapps (PHP, Python, NodeJS, Ruby - DB MySQL, PostGre) dan juga untuk email server (untuk kirim/terima email).
 
 ##### 3 Kriteria Yang Selalu Saya Lihat Dalam Memilih Email Hosting
 
@@ -47,7 +55,9 @@ Oleh sebab itu, kalo bisa email hosting yang anda pilih jangan pernah mengalami 
 
 Untungnya email hosting yang saya pilih SELAMA 7 TAHUN TIDAK PERNAH MENGALAMI MASALAH!
 
+Nah, udah penasaran kan email hosting apa yang saya pakai? Silahkan klik link di bawah ini sob!
 
+<h4><a href="#">EMAIL HOSTING YG GW PAKE</a></h4>
 
 Untuk batas pengiriman email menyesuaikan paket cloud hosting yang dipilih:
 
