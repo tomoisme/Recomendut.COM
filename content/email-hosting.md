@@ -11,6 +11,8 @@ tag: [
     ]
 ---
 
+![email hosting murah dengan kualitas terbaik](../img/email-hosting.jpg)
+
 ##### Rekomendasi Email Hosting Dari Tukang Bikin Web Perusahan
 
 Karena kerjaan saya sebagai tukang bikin web untuk perusahaan-perusahaan, memilih hosting sudah bukan hal yang asing lagi buat saya. 
@@ -37,9 +39,9 @@ Pada saat klien saya deal untuk bikin website menggunakan jasa saya, biasanya sa
 
 "Kira-kira bakal intensif pakai email atau tidak?"
 
-Setelah tau jumlah pemakai email dan intensitas pemakaian, Dari situ saya bisa menentukan paket email hosting yang terbaik untuk si klien.
+Setelah tau jumlah pemakai email dan intensitas pemakaian, Dari situ saya  bisa menentukan paket email hosting yang terbaik untuk si klien.
 
-Semakin banyak alamat email yang digunakan dan makin tinggi intensitas pemakaian, maka saya harus pilih paket hosting yang lebih besar.
+Semakin banyak alamat email yang digunakan dan makin tinggi intensitas pemakaian, maka saya  harus pilih paket hosting yang lebih besar.
 
 **Kapasitas Pengiriman Email Per Jam**
 
@@ -55,9 +57,13 @@ Oleh sebab itu, kalo bisa email hosting yang anda pilih jangan pernah mengalami 
 
 Untungnya email hosting yang saya pilih SELAMA 7 TAHUN TIDAK PERNAH MENGALAMI MASALAH!
 
-Nah, udah penasaran kan email hosting apa yang saya pakai? Silahkan klik link di bawah ini sob!
+Nah, udah penasaran kan email hosting apa yang saya  pakai? Silahkan klik link di bawah ini sob!
 
-<h4><a href="#">EMAIL HOSTING YG GW PAKE</a></h4>
+<h4><a href="https://www.dewaweb.com/aff.php?aff=139">EMAIL HOSTING YG SAYA PAKE</a></h4>
+
+Dari segi kapasitas penyimpanannya, hosting murah recommended ini menyediakan beberapa pilihan yang dapat anda sesuaikan dengan kebutuhan klien. 
+
+Mulai dari 500 MB untuk hosting pribadi, sampai 50 GB untuk perusahaan besar.
 
 Untuk batas pengiriman email menyesuaikan paket cloud hosting yang dipilih:
 
@@ -74,3 +80,9 @@ Crusader 	- 	1000 email / hour
 Paladin 	- 	1500 email / hour
 
 Oracle 	- 	2000 email / hour
+
+Sangat fleksibel dengan harga yang worth it kalo menurut saya. Karena dengan harga segitu, saya bener-bener gak pusing dan gak pernah nemu masalah di email hosting mereka. 
+
+saya gak pernah buka cPanel email hosting saya  kalo bukan untuk nambahin email karyawan atau forwarder. 7 Tahun tanpa trouble guys! Bahkan sampai detik ini pun saya masih memakai email hosting ini! Nih kalo kalian juga mau pake silahkan klik aja link di bawah:
+
+<h4><a href="https://www.dewaweb.com/aff.php?aff=139">EMAIL HOSTING YG SAYA PAKE</a></h4>
